@@ -1,2 +1,2 @@
 # hello-world
-inital Repo for learning the basics
+inital repo for learning the basics
